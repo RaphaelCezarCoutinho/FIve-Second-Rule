@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CirclesTransition
+  m_Controller: {fileID: 9100000, guid: 4d5de9f0e5a41a04490879010d13c51b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 589f13d9241fbbe43a077121d5e205c6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: beee04d84ad809542839c0b6cd6379b3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 587e5094556b5514fa1479358a11480c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d5ea3563517463f4a9d98e64a54b17cb, type: 2}
