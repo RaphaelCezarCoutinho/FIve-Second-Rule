@@ -4,4 +4,4 @@ This digital version of Five Second Rule was the last project I was involved on,
 You can find the scripts that I was directly involved in : 
 Five-Second-Rule/FIVE_SECOND_RULE/Assets/Scripts/
 
-If you want to test the project, you can download this repo and add it as a project to Unity HUB, the Unity version used for it was 2021.2.9f1.
+If you want to run the project, you can download this repo and add it as a project to Unity HUB, the Unity version used for it was 2021.2.9f1.
